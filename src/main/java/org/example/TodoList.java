@@ -74,7 +74,5 @@ public class TodoList {
         return texts;
     }
 
-    public int size() {
-        return items.size();
-    }
+   
 }
